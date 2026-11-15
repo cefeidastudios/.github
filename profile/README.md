@@ -1,6 +1,6 @@
 # Cefeida Studios
 
-**Cefeida Studios** ([cefeidastudios.com](https://cefeidastudios.com/)) —también conocido en la comunidad como **Cefeidas**— es un estudio independiente español de desarrollo de videojuegos, creador de **CHATARRA**.
+**Cefeida Studios** ([cefeidastudios.com](https://cefeidastudios.com/)) es un estudio independiente español de desarrollo de videojuegos, creador de **Chatarra**.
 
 ## 🎮 CHATARRA — Construye, combate y sobrevive
 Juego gratuito de construcción de vehículos 3D con piezas de desguace, duelos PvP en tiempo real y modo supervivencia **La Horda** a través de cinco mundos.
