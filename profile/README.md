@@ -1,4 +1,4 @@
-# Cefeida Studios (Cefeidas)
+# Cefeida Studios
 
 **Cefeida Studios** ([cefeidastudios.com](https://cefeidastudios.com/)) —también conocido en la comunidad como **Cefeidas**— es un estudio independiente español de desarrollo de videojuegos, creador de **CHATARRA**.
 
